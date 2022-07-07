@@ -1,0 +1,13 @@
+    </ nav >
+
+    < classe de rodapé   =" rodape " >
+        
+        < p  classe ="aura" > &copiar;Estudande Alura- 2022 </ p >
+        < img  src ="aura.png " classe ="aura.img " >
+
+    </ rodapé >
+
+</ corpo >
+
+
+</ html >
